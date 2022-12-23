@@ -4,4 +4,4 @@ metadata:
   name: mysql-config
 data:
   MYSQL_DATABASE: phonebook
-  MYSQL_USER: clarus
+  MYSQL_USER: ozzy
